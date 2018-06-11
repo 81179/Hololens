@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ba2fa1d51f8a15c45b9cd1fd4eb634b4
+timeCreated: 1517578545
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spooky Light
+  fontNames:
+  - Spooky Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
